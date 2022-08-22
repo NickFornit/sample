@@ -5,6 +5,6 @@
 */
 header("HTTP/1.1 301 Moved Permanently");
 header ( 'Location: /pult.php' );
-exit();
+exit("4444444444");
 
 

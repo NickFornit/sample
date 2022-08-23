@@ -13,6 +13,7 @@ function aaaa($n)
   $a=0;
   $b=0;
 $n++;
+// мои новые изменения
 return $n;
 }
 
